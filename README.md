@@ -1,7 +1,7 @@
 ---
 
 <div align="center">
-  <h3>👁️ TestFlight Watcher</h3>
+  <h3>👁️ TestFlight Sniper</h3>
   <p>Watches TestFlight apps for open slots.</p>
 </div>
 
@@ -13,7 +13,7 @@
 - Discord webhook support
 
 ## Setup
-Please visit the [wiki](https://github.com/marioparaschiv/testflight-watcher/wiki/Setup) to set up this project.
+Please visit the [wiki](https://github.com/marioparaschiv/testflight-sniper/wiki/Setup) to set up this project.
 
 ## Licensing
 See [LICENSE](/LICENSE).
